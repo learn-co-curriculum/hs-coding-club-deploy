@@ -18,7 +18,7 @@ To deploy our website, we're going to use an amazing command line deployment ser
 
 If I'm trying to deploy my website from the `hs-coding-club-html-css` lab, I could enter: 
 
-`cd nitrous/code/hs-coding-club-html-css`.
+`cd nitrous/code/hs-coding-club-html-css`
 
 Once you're there, enter in terminal: `surge`.
 
