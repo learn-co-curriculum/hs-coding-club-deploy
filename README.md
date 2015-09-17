@@ -14,10 +14,11 @@ To deploy our website, we're going to use an amazing command line deployment ser
 
 <img src="https://s3.amazonaws.com/after-school-assets/install-surge.png">
 
-
 **2.** Next you need to `cd` inside the directory of the site you want to deploy. 
 
-If I'm trying to deploy my website from the `hs-coding-club-html-css` lab, I could enter `cd nitrous/code/hs-coding-club-html-css`.
+If I'm trying to deploy my website from the `hs-coding-club-html-css` lab, I could enter: 
+
+`cd nitrous/code/hs-coding-club-html-css`.
 
 Once you're there, enter in terminal: `surge`.
 
