@@ -20,7 +20,7 @@ If I'm trying to deploy my website from the `hs-coding-club-html-css` lab, I cou
 
 `cd nitrous/code/hs-coding-club-html-css`
 
-Once you're there, enter in terminal: `surge`.
+Once you're there, enter in terminal: `surge`
 
 This command will prompt you to either create a Surge account or log in to an existing account. The process of logging in is the same as creating an account.
 
