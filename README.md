@@ -43,4 +43,4 @@ And finally, you're deployed! You can visit your site at `words-you-enter.surge.
 
 
 
-<a href='https://learn.co/lessons/hs-coding-club-deploy' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-coding-club-deploy' title='Let's Deploy!'>Let's Deploy!</a> on Learn.co and start learning to code for free.</p>
